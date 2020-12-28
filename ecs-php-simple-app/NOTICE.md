@@ -1,4 +1,4 @@
-# Amazon ECS PHP Demo App
+# Amazon ECS PHP App
 
 <https://github.com/aws/>
 
